@@ -1,0 +1,70 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="title" parent="@style/TextAppearance.AppCompat.Title">
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="titleDetails" parent="@style/TextAppearance.AppCompat.Title">
+        <item name="android:fontFamily">@font/roboto_regular</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+
+    <style name="statusOpened" parent="@style/TextAppearance.AppCompat.Medium">
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:background">@drawable/issue_opened</item>
+    </style>
+
+    <style name="statusClosed" parent="@style/TextAppearance.AppCompat.Medium">
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:background">@drawable/issue_closed</item>
+    </style>
+
+    <style name="avatar" parent="@style/TextAppearance.AppCompat.Medium">
+        <item name="android:layout_marginRight">8dp</item>
+    </style>
+
+    <style name="subtitle" parent="@style/TextAppearance.AppCompat.Medium">
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_marginLeft">8dp</item>
+    </style>
+
+    <style name="body" parent="@style/TextAppearance.AppCompat.Title">
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:layout_marginBottom">16dp</item>
+        <item name="android:fontFamily">@font/rubik_medium</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="button" parent="@style/Widget.MaterialComponents.Button">
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:fontFamily">@font/rubik_medium</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+
+</resources>

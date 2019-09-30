@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GitHub Issues</string>
+    <string name="action_settings">Settings</string>
+    <string name="HomeTitle">Issues - JetBrains/kotlin</string>
+    <string name="DetailsTitle">Issue - Detalhes</string>
+
+</resources>

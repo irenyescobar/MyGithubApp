@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "626752236098",
+    "firebase_url": "https://mygithubapp.firebaseio.com",
+    "project_id": "mygithubapp",
+    "storage_bucket": "mygithubapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626752236098:android:63bebf4b4f6fec1438dbdb",
+        "android_client_info": {
+          "package_name": "ireny.escobar.mygithubapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626752236098-tjn7umn061ihru747rmphetgsapuh2vj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ireny.escobar.mygithubapp",
+            "certificate_hash": "78590ffbcd1fd6930582e4a5de24cfc4767edd2f"
+          }
+        },
+        {
+          "client_id": "626752236098-omsn01r1jdfi2431kkhfd9odj71rl4nv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvVl6JwIn4KNTVw249Ltkbp6x6pkd9S1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626752236098-omsn01r1jdfi2431kkhfd9odj71rl4nv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
